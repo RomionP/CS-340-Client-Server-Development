@@ -1,1 +1,11 @@
-# CS-340-Client-Server-Development
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+A: You write programs that are maintainable, readable, and adaptable by making code that is easy to read and reusable. The advantages of working this way especially in Project Two made it so that methods can be reused for other features and made it overall more organized since functions are being reused. I could use the CRUD Python module for future projects since it could support different client data like inventory or customer records. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+A: I approached the dashboard requirements in steps and implemented each component in layers. I then tested each layer to ensure functionality requirements are being met. My approach to this project differed from previous assignments in other courses since this was a full-stack project that consisted of a front end a and back end. I had to break down the back end into steps first and then the same for the front end. I would follow CRUD operations and have reusable components so database logic stays separate from the user interface.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+A: Computer scientists create and design systems that store, organize and analyze data. This helps people or users make decisions faster and more accurate. My work like on this type of project could help companies do better by a dependable engineer that can create and design systems. This is important especially if the company handles customer or product data. Having someone that can ensure the company system is fully functional and scalable is essential for growth. 
